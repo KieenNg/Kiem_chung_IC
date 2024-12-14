@@ -1,0 +1,335 @@
+/media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv(1)
+** while parsing file included at DriverBase.sv(2)
+** at Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv(1)
+** while parsing file included at DriverBase.sv(2)
+** at Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv(1)
+** while parsing file included at DriverBase.sv(2)
+** at Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Driver.sv(1)
+** while parsing file included at DriverBase.sv(2)
+** at Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Ex_Preproc.vp {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Ex_Preproc.vp
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module Ex_Preproc
+
+Top level modules:
+	Ex_Preproc
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Arith_ALU.vp {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Arith_ALU.vp
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module Arith_ALU
+
+Top level modules:
+	Arith_ALU
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(1)
+** at Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(1)
+** at Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(1)
+** at Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(1)
+** at Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(123): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(146): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(170): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(194): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(218): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(242): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(266): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(290): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(364): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(388): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(414): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(441): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(513): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(520): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(526): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(539): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(798): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(817): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.tb.sv(6)
+** at Scoreboard.sv(1269): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+-- Compiling package Execute_tb_sv_unit
+** Warning: Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: OutputPacket.sv(24): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at OutputPacket.sv(20) for strict LRM compliance.
+** Warning: ReceiverBase.sv(28): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at ReceiverBase.sv(23) for strict LRM compliance.
+** Warning: Receiver.sv(11): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at Receiver.sv(7) for strict LRM compliance.
+** Warning: Scoreboard.sv(123): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(146): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(170): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(194): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(218): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(242): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(266): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(290): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(364): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(388): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(414): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(441): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(513): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(520): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(526): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(539): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(798): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Scoreboard.sv(817): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Scoreboard.sv(1269): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'driver_mbox'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'receiver_mbox'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+** Warning: Scoreboard.sv(1437): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: Scoreboard.sv(1450): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: Scoreboard.sv(1455): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: Scoreboard.sv(1468): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+-- Compiling program Execute_test
+** Warning: Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: OutputPacket.sv(24): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at OutputPacket.sv(20) for strict LRM compliance.
+** Warning: ReceiverBase.sv(28): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at ReceiverBase.sv(23) for strict LRM compliance.
+** Warning: Receiver.sv(11): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at Receiver.sv(7) for strict LRM compliance.
+** Warning: Scoreboard.sv(123): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(146): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(170): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(194): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(218): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(242): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(266): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(290): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(364): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(388): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(414): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(441): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(513): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(520): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(526): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(539): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(798): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Scoreboard.sv(817): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: Scoreboard.sv(1269): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'name'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'driver_mbox'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+** Warning: Scoreboard.sv(1309): (vlog-2217) No default specified for 'receiver_mbox'.  Default must match the value specified in class at Scoreboard.sv(1301) for strict LRM compliance.
+
+Top level modules:
+	Execute_test
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv(2)
+** at Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv(2)
+** at Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv(2)
+** at Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Generator.sv(2)
+** at Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Top.v {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Top.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/ReceiverBase.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/ReceiverBase.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/data_defs.v {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/data_defs.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/OutputPacket.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/OutputPacket.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.test_top.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.test_top.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module Execute_test_top
+
+Top level modules:
+	Execute_test_top
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Shift_ALU.vp {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Shift_ALU.vp
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module Shift_ALU
+
+Top level modules:
+	Shift_ALU
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(2)
+** at Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(2)
+** at Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(2)
+** at Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(2)
+** at Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(123): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(146): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(170): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(194): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(218): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(242): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(266): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(290): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(364): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(388): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(414): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(441): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(513): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(520): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(526): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(539): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(798): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(817): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(1269): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(1437): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(1450): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(1455): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard.sv(1468): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Receiver.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Receiver.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv {0 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(119): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(142): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(166): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(190): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(214): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(238): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(262): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(286): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(361): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(385): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(411): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(438): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(511): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(518): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(524): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(537): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(618): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(627): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(635): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(654): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(737): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(773): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(808): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(845): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(911): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(932): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(952): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(973): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1045): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1053): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1060): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1074): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1174): (vlog-13203) option.cross_auto_bin_max = 0 setting is non-LRM compliant. No auto cross bins will be generated.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(721): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(883): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1008): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(721): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(721): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(721): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(883): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(883): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(883): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1008): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1008): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+** Error (suppressible): (vlog-13276) /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Scoreboard_coverage.sv(1008): Could not find field/method name (carry_out) in 'pkt_cmp' of 'this.#parent#.pkt_cmp.carry_out'.
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/ALU.vp {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/ALU.vp
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv(2)
+** at Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv(2)
+** at Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv(2)
+** at Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: ** while parsing file included at /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/DriverBase.sv(2)
+** at Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.if.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Execute.if.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling interface Execute_io
+-- Compiling interface DUT_probe_if
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv {2 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv(89): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet.sv(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet2.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/Do/Lab4_/Packet2.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+Top level modules:
+	--none--
+
+} {} {}}

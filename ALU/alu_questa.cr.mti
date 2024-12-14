@@ -1,0 +1,35 @@
+/media/kien/data/kien/20241/design_verify_ic/ALU/interface.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/ALU/interface.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling interface alu_if
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/ALU/Generator.sv {0 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/ALU/Generator.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+** Error: /media/kien/data/kien/20241/design_verify_ic/ALU/Generator.sv(3): Invalid type 'Packet'. Please check the type of the variable 'pkt2send'.
+** Error: /media/kien/data/kien/20241/design_verify_ic/ALU/Generator.sv(5): (vlog-2730) Undefined variable: 'Packet'.
+** Error: (vlog-13069) /media/kien/data/kien/20241/design_verify_ic/ALU/Generator.sv(16): near "Generator": syntax error, unexpected STRING_LITERAL.
+
+} {3.0 6.0} {}} /media/kien/data/kien/20241/design_verify_ic/ALU/alu.v {1 {vlog -work work -vopt -stats=none /media/kien/data/kien/20241/design_verify_ic/ALU/alu.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/ALU/Packet.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/ALU/Packet.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+Top level modules:
+	--none--
+
+} {} {}} /media/kien/data/kien/20241/design_verify_ic/ALU/testbench.sv {1 {vlog -work work -vopt -sv -stats=none /media/kien/data/kien/20241/design_verify_ic/ALU/testbench.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling interface alu_if
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}}
